@@ -28,11 +28,8 @@ It is one self-contained HTML file. There is no framework, no build step and no 
 ## Live demo
 
 Replace with your own link after publishing:
-
-```
-https://<your-username>.github.io/<repo-name>/
-```
-
+https://cybertree.netlify.app
+<a href="https://cybertree.netlify.app">click here</a?
 ## Features
 
 - **Route map.** Six colored lines (stages) with fifteen stations (phases), like a transit map. Each station fills as you learn its topics.
